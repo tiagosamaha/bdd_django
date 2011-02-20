@@ -1,8 +1,0 @@
-BDD with Django
-===============
-
-We'll use some BDD tools to develop this site. Here are tools that we'll use:
-
-    * Lettuce
-    * Splinter
-    * Specloud
